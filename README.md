@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Using .Net 7, this example shows how to verify an email address and reset a password.
+Using .Net 8, this example shows how to verify an email address and reset a password.
 Uses Sqlite for the database.
 
 ## Getting Started
